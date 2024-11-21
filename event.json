@@ -1,0 +1,10 @@
+{
+  "agent": "agent-name",
+  "actionGroup": "action-group-name",
+  "knowledgeBase": {
+    "id": "knowledgebase-id",
+    "name": "knowledgebase-name",
+    "source": "bucket-name"
+  },
+  "messageVersion": "1.0"
+}
